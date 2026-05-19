@@ -1,4 +1,11 @@
 {
-  "version": 1,
-  "assets": []
+  "version": 2,
+  "revision": 5,
+  "assets": [
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/ay",
+      "stages": [1, 2, 3]
+    }
+  ]
 }
