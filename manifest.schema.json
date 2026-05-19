@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Emoji Assets Manifest",
+  "type": "object",
+  "required": ["version", "assets"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "assets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["mode", "letterCount", "levelId", "stages"],
+        "properties": {
+          "mode": { "type": "string" },
+          "letterCount": { "type": "integer", "minimum": 1 },
+          "levelId": { "type": "integer", "minimum": 1 },
+          "stages": {
+            "type": "array",
+            "items": { "type": "integer", "enum": [1, 2, 3] },
+            "minItems": 1,
+            "maxItems": 3
+          }
+        }
+      }
+    }
+  }
+}
