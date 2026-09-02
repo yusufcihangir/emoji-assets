@@ -1,11 +1,1455 @@
 {
   "version": 2,
-  "revision": 5,
+  "revision": 6,
   "assets": [
     {
       "mode": "classic",
+      "path": "1-15-harf/2-kelime/at",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/av",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
       "path": "1-15-harf/2-kelime/ay",
-      "stages": [1, 2, 3]
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/el",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/ev",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/il",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/in",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/ip",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/iz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/su",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/un",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/ün",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/2-kelime/üs",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/acı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ada",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ana",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/anı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/arı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ata",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/açı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/açık",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/aşk",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/aşı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/bağ",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/baş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/bel",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ben",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/bez",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/bot",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/boy",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/boş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/buz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/cam",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/cep",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/cin",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/dağ",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/dev",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/dik",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/dil",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/diz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/diş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/don",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/dön",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/düz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/düş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ego",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/fan",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/far",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/fiş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ful",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/gar",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/gaz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/gen",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/gök",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/göç",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/gür",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/hap",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/hat",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/hür",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/hız",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ilk",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/inc",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/isa",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/iyi",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/jack",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/jel",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/jet",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kan",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kat",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kaz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kaş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kek",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kel",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kep",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kin",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kod",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kot",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/koç",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kum",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kör",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/köy",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/köz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/küf",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kül",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/küs",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/kız",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/laz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/leş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/mat",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/maç",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/mil",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/mum",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/muz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/nem",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/oda",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ons",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/pay",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/pil",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/pin",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/pus",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/rap",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ret",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/rol",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sac",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sap",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/saz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sağ",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sel",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ses",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/set",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sol",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/son",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sos",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/sur",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/suç",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/süs",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/süt",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tac",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tas",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tat",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tay",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tel",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ten",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tik",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tok",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ton",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tur",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tuz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tuş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tüp",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tür",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tıp",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/tır",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ufo",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yat",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yay",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yaz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yaş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yol",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yük",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yün",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/yüz",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/zar",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/zil",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/zıt",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/çağ",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/çek",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/çim",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/çiğ",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/çöl",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/örf",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ütü",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/ısı",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şah",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şak",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şal",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şef",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şiş",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şov",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şut",
+      "stages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "mode": "classic",
+      "path": "1-15-harf/3-kelime/şık",
+      "stages": [
+        1,
+        2,
+        3
+      ]
     }
   ]
 }
