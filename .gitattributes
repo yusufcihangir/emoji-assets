@@ -1,1 +1,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
+
+# App media is served from raw.githubusercontent.com, not LFS
+app-media/** -filter binary
